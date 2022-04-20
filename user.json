@@ -1,0 +1,113 @@
+{
+    "user": [
+    {
+       "_id": "6260188625dad48f63544c26",
+       "isActive": false,
+       "picture": "http://placehold.it/32x32",
+       "age": 37,
+       "name": "Wagner Quinn",
+       "gender": "male",
+       "email": "wagnerquinn@magmina.com",
+       "phone": "+1 (807) 437-3099",
+       "address": "145 Hinsdale Street, Freelandville, Puerto Rico, 138",
+       "registered": "2015-04-28T05:02:45 +03:00"
+    },
+    {
+       "_id": "626018864fc56146b137817d",
+       "isActive": false,
+       "picture": "http://placehold.it/32x32",
+       "age": 24,
+       "name": "Rae Aguilar",
+       "gender": "female",
+       "email": "raeaguilar@magmina.com",
+       "phone": "+1 (866) 494-3752",
+       "address": "782 Sunnyside Avenue, Stewartville, Idaho, 9096",
+       "registered": "2015-08-13T05:04:22 +03:00"
+    },
+    {
+       "_id": "626018865d9005da10c36950",
+       "isActive": true,
+       "picture": "http://placehold.it/32x32",
+       "age": 35,
+       "name": "Janelle Tyler",
+       "gender": "female",
+       "email": "janelletyler@magmina.com",
+       "phone": "+1 (887) 420-2970",
+       "address": "240 Voorhies Avenue, Chloride, Hawaii, 473",
+       "registered": "2022-02-22T01:22:59 +03:00"
+    },
+    {
+       "_id": "6260188678aeb1429f41378d",
+       "isActive": true,
+       "picture": "http://placehold.it/32x32",
+       "age": 20,
+       "name": "Malinda Shepard",
+       "gender": "female",
+       "email": "malindashepard@magmina.com",
+       "phone": "+1 (893) 585-2807",
+       "address": "965 Georgia Avenue, Davenport, Maine, 5788",
+       "registered": "2016-09-08T11:20:15 +03:00"
+    },
+    {
+       "_id": "626018862176ab50a3a8f0df",
+       "isActive": true,
+       "picture": "http://placehold.it/32x32",
+       "age": 27,
+       "name": "Noel Stokes",
+       "gender": "male",
+       "email": "noelstokes@magmina.com",
+       "phone": "+1 (973) 562-2748",
+       "address": "725 Bergen Court, Ilchester, Kentucky, 7526",
+       "registered": "2018-11-13T01:49:03 +02:00"
+    },
+    {
+       "_id": "626018862d882f39ec868a6b",
+       "isActive": false,
+       "picture": "http://placehold.it/32x32",
+       "age": 35,
+       "name": "Gibbs Walker",
+       "gender": "male",
+       "email": "gibbswalker@magmina.com",
+       "phone": "+1 (980) 490-2547",
+       "address": "152 Debevoise Street, Catherine, Missouri, 2598",
+       "registered": "2017-01-21T01:12:14 +02:00"
+    },
+    {
+       "_id": "62601886df62a89be95d2088",
+       "isActive": true,
+       "picture": "http://placehold.it/32x32",
+       "age": 28,
+       "name": "Lesa Dixon",
+       "gender": "female",
+       "email": "lesadixon@magmina.com",
+       "phone": "+1 (969) 526-3806",
+       "address": "347 Bushwick Court, Stagecoach, Arkansas, 9226",
+       "registered": "2014-07-11T02:17:13 +03:00"
+    },
+    {
+       "_id": "62601886ecaee5ca6c4f83ba",
+       "isActive": true,
+       "picture": "http://placehold.it/32x32",
+       "age": 25,
+       "name": "Langley Mckenzie",
+       "gender": "male",
+       "email": "langleymckenzie@magmina.com",
+       "phone": "+1 (914) 438-3892",
+       "address": "668 Varick Avenue, Jennings, Georgia, 8166",
+       "registered": "2015-09-17T07:47:35 +03:00"
+    },
+    {
+       "_id": "62601886324bf0e622aeeae9",
+       "isActive": true,
+       "picture": "http://placehold.it/32x32",
+       "age": 23,
+       "name": "Myers Charles",
+       "gender": "male",
+       "email": "myerscharles@magmina.com",
+       "phone": "+1 (902) 571-3848",
+       "address": "685 Raleigh Place, Walland, North Carolina, 9253",
+       "registered": "2017-09-12T07:57:40 +03:00"
+    }
+ ]
+
+}
